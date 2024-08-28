@@ -2,7 +2,6 @@
 - 👀 I’m interested in CS industry
 - 🌱 I’m currently learning Computer Science in QCC
 - 💞️ I’m looking to learn coding
-- 📫 Reach me in BRIAN.CHIN22@student.qcc.cuny.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am still a freshman student.
 
