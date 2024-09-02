@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science in QCC
 - 💞️ I’m looking to learn coding
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am still a freshman student.
+- ⚡ Fun fact: I love foods! (especially Ramen)
 
 <!---
 BCSL2000/BCSL2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
