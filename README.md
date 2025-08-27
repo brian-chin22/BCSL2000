@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Chin
 - 👀 I’m interested in CS industry
-- 🌱 I’m currently learning Computer Science in QCC
+- 🌱 I’m currently learning Computer Science at University at Buffalo
 - 💞️ I’m looking to learn coding
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love foods! (especially Ramen)
